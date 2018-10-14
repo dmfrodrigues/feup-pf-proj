@@ -40,3 +40,5 @@ https://cic40.es/por-que-su-fabrica-digital-deberia-funcionar-con-blockchain/
 
 https://www.henrylab.net/wp-content/uploads/2017/10/blockchain.pdf
 
+// Livro "Mastering Bitcoin"
+https://unglueit-files.s3.amazonaws.com/ebf/05db7df4f31840f0a873d6ea14dcc28d.pdf

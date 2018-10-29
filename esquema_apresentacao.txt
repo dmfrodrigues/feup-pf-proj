@@ -1,0 +1,33 @@
+Blockchain:	
+	• Vertente tecnológica 
+		? Funcionamento (exemplificado - Bitcoin)
+		? Aspetos técnicos (resumidos)
+				
+
+	• Vertente socio-econímica
+		? Ideologia - blockchain vs sistema financeiro corrente
+		  	 
+
+Problemas:
+	• Técnicos
+		? Bifurcações (blockchain fork)
+		? Cyrbercrime e segurança
+			- Doublespending;
+			- Roubo
+	
+	• Económicos
+		? Manipulação de preço 
+				
+
+Outras aplicações
+	• Cartório / notário
+	• Saúde
+	• Votação
+	• Cidadania
+	
+Conclusão
+	• Facilitar trocas e armazenamento público de informação
+	• Reduzir custos de transações 
+ 	• Imutabilidade dos dados 
+	
+	
